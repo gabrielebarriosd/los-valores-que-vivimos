@@ -56,7 +56,7 @@ export default function Page() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="space-y-4"
         >
-          <div className="text-right max-w-72 ml-auto">
+          <div className="text-right max-w-72 ml-auto text-black">
             Llámanos, el cupo es limitado<br />
             <Link href="tel:4434829474" className="text-blue-600 hover:underline">443-482-9474</Link>
           </div>
